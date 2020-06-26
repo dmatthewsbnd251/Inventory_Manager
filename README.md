@@ -13,7 +13,7 @@ Inventory Manager removes this manual step by taking cues from the the source ap
 # Implementation
 
 - Asset sources and targets must follow the abstract classes defined, and implement the APIs of source and target applications
-- Rules files created
+- Rules and inventory files configured
 
 # Usage
 
