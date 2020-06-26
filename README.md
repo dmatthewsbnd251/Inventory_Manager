@@ -6,14 +6,14 @@ Why is Inventory Manager helpful? Let's say a source of data about systems on a 
 
 Inventory Manager removes this manual step by taking cues from the the source application, and based on a rule format file, automatically ensures assets are properly configured in the target application.  
 
-# Implementations
-
-- Asset sources and targets must follow the abstract classes defined, and implement the APIs of source and target applications
-- Rules files created
-
 # Installation
 
     pip -r install requirements.txt
+
+# Implementation
+
+- Asset sources and targets must follow the abstract classes defined, and implement the APIs of source and target applications
+- Rules files created
 
 # Usage
 
