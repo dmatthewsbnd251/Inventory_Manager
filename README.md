@@ -27,7 +27,7 @@ Inventory Manager removes this manual step by taking cues from the the source ap
     -d, --dry-run         Do not do anything.  Just determine what would be done and say why.
     -j JFILE, --json-file=JFILE    Optionally specify and output file for the data in json format. 
 
-
+    ./apply -h
     Usage: apply.py [options] filename
     Options:
     --version             show program's version number and exit
