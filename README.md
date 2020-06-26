@@ -4,7 +4,7 @@ Inventory Manager is a command line tool that takes data from ip based asset inv
 
 Why is Inventory Manager helpful? Let's say a source of data about systems on a network exist in SCCM.  High priority servers exist in one group and low priority desktops in another.  All systems need placed in a monitoring application.  The monitoring application must send text notifications when high priority servers go down and create low priority tickets when desktops have a full drive.  The monitoring application has two buckets for different system priorties, however, would not have a way to know which systems should go into these buckets at any given time.  The need to manage systems across applications would typically result in a manual task, often resulting in inaccurate data across applications.  Inaccurate data would rendor the target application, the monitoring tool in this example, less effective.  
 
-Inventory Manager removes this manual step by taking cues from the the source application, and based on a rule format file, automatically ensures assets are properly configured in the target application.  
+Inventory Manager removes this manual step by taking cues from the the source application(s), and based on a rule format file, automatically ensures assets are properly configured in the target application(s).  
 
 # Installation
 
