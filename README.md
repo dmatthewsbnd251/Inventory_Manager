@@ -44,7 +44,7 @@ Inventory Manager removes this manual step by taking cues from the the source ap
 
 ## Acknowledgments 
  
-This work was produced as a university staff project and made available under an open source license courtesy of Carnegie Mellon University.
+This work was produced as a university staff project and made available under an open source license with the permission of Carnegie Mellon University.
  
 ## License
  
