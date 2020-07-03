@@ -6,6 +6,10 @@ Why is Inventory Manager helpful? Let's say a source of data about systems on a 
 
 Inventory Manager removes this manual step by taking cues from the the source application(s), and based on a rule format file, automatically ensures assets are properly configured in the target application(s).  
 
+# What makes it compelling?
+
+    The rules file.  This is worth expanding upon and what makes this tool so powerful.  Any one rule can have unlimited criteria and rules can inherit other rules with priority.  These principles make expanding existing rules with ever so slight variations useful.  For example, within Satellite you have servers and web servers.   Well okay then, when it is a web server, exists in Satellite's web server group, ensure that the monitoring application is watching port 80 to be responsive.
+
 # Installation
 
     pip -r install requirements.txt
